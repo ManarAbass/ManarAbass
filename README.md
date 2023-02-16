@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manar Abass</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Egypt</h3>
+<h3 align="center">A passionate Data Science (ML & DL) Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarabass&label=Profile%20views&color=0e75b6&style=flat" alt="manarabass" /> </p>
 
 
--  I study Data Science(ML&DL) 
+
 - 📫 How to reach me **manarabbas63@gmail.com**
   
 
